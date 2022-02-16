@@ -1,3 +1,4 @@
+
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Patryk <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 Feel free to contact me :yum:
 <br><br>
@@ -20,9 +21,8 @@ Feel free to contact me :yum:
 
 
 Passionate software engineer and avid learner.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/raghavk16/raghavk16/raw/master/coderman.gif" width="500" height="320" />
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
 - 🔭 Currently working on all things– IA, Deep Learning, Web 3.0, FinTech, Web Development
 - 🌱 Learning anything I can get my hands on!
@@ -45,7 +45,6 @@ Passionate software engineer and avid learner.
 <code><img height="20" src="https://www.datacenterplanet.com/wp-content/uploads/2018/11/awslogo-600x600.png"></code>
 
 <a href="mailto:patrykchlandapro@gmail.fr"> </a>
-
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=patiwwb&show_icons=true&theme=dracula&hide=stars,issues)
+<!--![Leo's github stats](https://github-readme-stats.vercel.app/api?username=patiwwb&show_icons=true&theme=dracula&hide=stars,issues)-->
 <!--![Leo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patiwwb&theme=blue-gree,issues)-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
