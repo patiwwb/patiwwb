@@ -24,7 +24,7 @@ Passionate software engineer and avid learner.
 <img align="right" alt="GIF" src="https://github.com/raghavk16/raghavk16/raw/master/coderman.gif" width="500" height="320" />
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
-- 🔭 Currently working on all things– IA, Deep Learning, Web 3.0, FinTech, Web Development
+- 🔭 Currently working on all things– AI, Deep Learning, Web 3.0, FinTech, Web Development
 - 🌱 Learning anything I can get my hands on!
 - 👯 Always looking to collaborate
 - 💬 ask me about anything, i am happy to help;
