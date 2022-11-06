@@ -1,7 +1,7 @@
 
 # Hey ! <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> --> I'm Patryk <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 Feel free to contact me :yum:
-<br><br>
+<br> <br>
      
 [<img src="https://img.shields.io/badge/LinkedIn-patrykchlanda-white?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/patryk-chlanda/)
 [<img src="https://img.shields.io/badge/Email-patrykchlandapro%40gmail.com-orange">](mailto:patrykchlandapro@gmail.com)
